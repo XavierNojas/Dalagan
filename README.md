@@ -1,4 +1,4 @@
-# Dalagan: Adventures of Balut
+# 🐣 Dalagan: Adventures of Balut
 
 **Game Description:**
 Dalagan is a charming 2D side-scrolling platformer that follows the journey of a cute little chick named Balut. In the game, players guide Balut through various levels, jumping over obstacles, collecting power-ups, and gathering food items to earn points and finish the level. The levels are filled with challenging platforming sections and hazards that players must overcome to progress.
