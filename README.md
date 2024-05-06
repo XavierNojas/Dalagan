@@ -3,8 +3,8 @@
 **Game Description:**
 Dalagan is a charming 2D side-scrolling platformer that follows the journey of a cute little chick named Balut. In the game, players guide Balut through various levels, jumping over obstacles, collecting power-ups, and gathering food items to earn points and finish the level. The levels are filled with challenging platforming sections and hazards that players must overcome to progress.
 
-**Game Trailer:**
-[![Dalagan Gameplay](https://img.youtube.com/vi/jTBB-7M9k7c/0.jpg)](https://www.youtube.com/watch?v=jTBB-7M9k7c)
+**Gameplay Trailer:**
+[![Dalagan Trailer](https://img.youtube.com/vi/jTBB-7M9k7c/0.jpg)](https://www.youtube.com/watch?v=jTBB-7M9k7c)
 
 **Dalagan Dev Team:**
 
